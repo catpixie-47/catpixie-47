@@ -1,3 +1,9 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6ec4,100:7873f5&height=250&section=header&text=Hey!%20I'm%20Vaishnavi&fontSize=50&animation=twinkling&fontColor=ffffff" />
+</p>
+
+
 # 👋 Hey there, I'm Vaishnavi!  
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
@@ -23,8 +29,8 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=catpixie_47&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=catpixie_47&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=catpixie-47&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=catpixie-47&theme=tokyonight)
 
 ---
 
