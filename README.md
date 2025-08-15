@@ -4,8 +4,6 @@
 </p>
 
 
-# 👋 Hey there, I'm Vaishnavi!  
-
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 
 ## 🚀 About Me
